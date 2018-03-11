@@ -1,0 +1,3 @@
+#ignore clutter in the repo
+cls
+vim.exe.stackdump
